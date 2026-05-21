@@ -1,0 +1,6 @@
+Letakkan gambar .jpg atau .png bangunan heritage kategori 'keraton' di folder ini.
+
+Nama file harus sesuai dengan yang ada di data/heritage.geojson kolom "gambar".
+Contoh: taman_sari.jpg, benteng_vredeburg.jpg, dst.
+
+Jika gambar tidak ada, aplikasi otomatis tampilkan emoji sebagai pengganti.
